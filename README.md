@@ -1,6 +1,4 @@
 #BaseAnimation (below chart)
-#动画合集 		（下面有效果图）修改分支
-主干
 
 English Description 
 
@@ -10,21 +8,6 @@ BaseAnimation, if a new version is updated automatically to remind everyone, I h
 BaseAnimation  QQ group：149581646
 
 Author's blog: http://blog.csdn.net/duguang77
-
-
-
-
-中文说明
-
-BaseAnimation收集网络Android相关动画集合，自定义控件等，近200多种源码 
-BaseAnimation,如果有新版本会自动提醒大家更新,也希望大家多多贡献自己的动画xml文件或者其他源码,一起来打造这个开源的app 
-
-BaseAnimation QQ群：149581646
-
-作者博客：http://blog.csdn.net/duguang77
-
-
-# Version
 
 
 The 1.3 version update:
